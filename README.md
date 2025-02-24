@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎨 I'm currently working on editorial activities at school and exploring game development.<br><br>👥 I'm looking to collaborate on game projects, web development, and video editing.<br><br>⚡ Fun fact: I've worked on YouTube channels and creative projects!<br>
+🎨 I'm currently working on editorial activities at school and exploring diffrent skills.<br><br>👥 I'm looking to collaborate on any projects, and video editing.<br><br>⚡ Random fact: I've worked on YouTube channels and  some diffrent projects<br>
 
 
 ## 🌐 Socials:
