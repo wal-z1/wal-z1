@@ -1,5 +1,4 @@
 # 💫 About Me:
-🎨 **Creative Professional** working on editorial projects while exploring multimedia design<br>
 💻 **Code Enthusiast** with passion for creative programming and web technologies<br>
 🎮 **Games** I appreciate immersive game design and interactive experiences<br>
 🔧 **Tech-Savvy** individual always exploring cutting-edge tools and platforms<br>
