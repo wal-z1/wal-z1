@@ -1,13 +1,13 @@
 # 💫 About Me:
 🎨 **Creative Professional** working on editorial projects while exploring multimedia design<br>
 💻 **Code Enthusiast** with passion for creative programming and web technologies<br>
-🎮 **Gamer** who appreciates immersive game design and interactive experiences<br>
+🎮 **Games** who appreciates immersive game design and interactive experiences<br>
 📺 **Avid Watcher** analyzing films, shows, and digital storytelling<br>
 🔧 **Tech-Savvy** individual always exploring cutting-edge tools and platforms<br>
 
 <!-- Animated typing text with custom colors -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=22F7A3&center=true&vCenter=true&width=500&lines=Media+Creator+%7C+Designer;Full-Stack+Programmer;Gamer+%7C+Tech+Enthusiast;Avid+Film+%26+Content+Analyst" alt="Animated Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=22F7A3&center=true&vCenter=true&width=500&lines=Media+Creator+%7C+Designer;Programmer;Games+%7C+Tech+Enthusiast;Avid+Watcher+%26+Content+Analyst" alt="Animated Typing Intro" />
 </div>
 
 ## 🌐 Socials:
