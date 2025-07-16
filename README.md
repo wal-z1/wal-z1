@@ -1,7 +1,7 @@
 # 💫 About Me:
 🎨 **Creative Professional** working on editorial projects while exploring multimedia design<br>
 💻 **Code Enthusiast** with passion for creative programming and web technologies<br>
-🎮 **Gamer** who appreciates immersive game design and interactive experiences<br>
+🎮 **Games** I appreciate immersive game design and interactive experiences<br>
 📺 **Avid Watcher** analyzing films, shows, and digital storytelling<br>
 🔧 **Tech-Savvy** individual always exploring cutting-edge tools and platforms<br>
 
@@ -12,7 +12,11 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bouhenika-walid-172649355)
+<hr>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/walid_u2) 
+<hr>
+
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wal_z1)   
 
 # 💻 Tech Stack:
