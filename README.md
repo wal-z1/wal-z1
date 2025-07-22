@@ -5,7 +5,7 @@
 
 <!-- Animated typing text with custom colors -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=22F7A3&center=true&vCenter=true&width=500&lines=Media+Creator+%7C+Designer;Programmer;Gamer+%7C+Tech+Enthusiast;Avid+Watcher+%26+Content+Analyst" alt="Animated Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=22F7A3&center=true&vCenter=true&width=500&lines=Media+Creator+%7C+Designer;Programmer;%7C+Tech+Enthusiast;Avid+Watcher+%26+Content+Analyst" alt="Animated Typing Intro" />
 </div>
 
 ## 🌐 Socials:
