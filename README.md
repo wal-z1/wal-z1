@@ -15,7 +15,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/walid_u2) 
 <br>
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wal_z1)   
 
 # 💻 Tech Stack:
 <!-- Animated rotating tech icons with glow effect -->
