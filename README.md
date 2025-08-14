@@ -44,7 +44,7 @@
 ### 🔝 My Contributions
 <!-- Animated contributor stats with progress animation -->
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=wal-z1&limit=6&theme=dark&combine_all_yearly_contributions=true&show_icons=true&animation=scale" width="90%"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=wal-z1&limit=6&theme=dark&combine_all_yearly_contributions=true&show_icons=true&animation=scale" width="30%"/>
 </div>
 
 ---
