@@ -20,7 +20,7 @@
 <!-- Animated rotating tech icons with glow effect -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,js,ae,ps,pr,git,tailwind,github,vscode,&theme=dark&perline=6&animate=true" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,js,ae,ps,pr,git,tailwind,github,vscode,react,&theme=dark&perline=6&animate=true" />
   </a>
 </p>
 
