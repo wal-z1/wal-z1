@@ -40,17 +40,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wal-z1&theme=react-dark&bg_color=00000000&hide_border=true&line=22F7A3&point=FFFFFF&area=true&custom_title=My+Contribution+Activity" width="90%"/>
 </div>
 
-## 🏆 GitHub Trophies
-<!-- Rotating trophies with progress bars -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wal-z1&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="Achievement Trophies" />
-</div>
-
-### ✍️ Developer Thoughts
-<!-- Changing quotes with fade animation -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=fade&quote_category=technology,design" />
-</div>
 
 ### 🔝 My Contributions
 <!-- Animated contributor stats with progress animation -->
