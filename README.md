@@ -1,11 +1,7 @@
 ### About Me:
-
 Curerntly I am a CS student at (ESI).
-
 My focus is on the practical application of technology to build clean, functional, and well-designed digital experiences.
-
 I approach development with an emphasis on creating efficient.
-
 Motivated by the desire to produce well-crafted and efficient products, I enjoy combining my love of design and media with technical problem solving. 
 
 ---
