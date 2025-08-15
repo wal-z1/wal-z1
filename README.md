@@ -1,9 +1,16 @@
-# 💫 About Me:
-💻 **Code Enthusiast** with passion for creative programming and web technologies<br>
-🎮 **Games** I appreciate immersive game design and interactive experiences<br>
-🔧 **Tech-Savvy** individual always exploring cutting-edge tools and platforms<br>
+### About Me:
 
-<!-- Animated typing text with custom colors -->
+Curerntly I am a CS student at (ESI).
+
+My focus is on the practical application of technology to build clean, functional, and well-designed digital experiences.
+
+I approach development with an emphasis on creating efficient.
+
+Motivated by the desire to produce well-crafted and efficient products, I enjoy combining my love of design and media with technical problem solving. 
+
+---
+
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=22F7A3&center=true&vCenter=true&width=500&lines=Media+Creator+%7C+Designer;Programmer;%7C+Tech+Enthusiast" alt="Animated Typing Intro" />
 </div>
@@ -24,18 +31,15 @@
   </a>
 </p>
 
-<!-- Animated stats cards with professional layout -->
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=wal-z1&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&ring=22F7A3&animate=true&custom_title=My+GitHub+Stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=wal-z1&theme=dark&hide_border=true&background=00000000&ring=22F7A3&fire=22F7A3&currStreakLabel=22F7A3" />
 </div>
 
-<!-- Animated language distribution with progress bars -->
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wal-z1&theme=dark&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&hide=procfile&card_width=400" />
 </div>
 
-<!-- Interactive activity graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wal-z1&theme=react-dark&bg_color=00000000&hide_border=true&line=22F7A3&point=FFFFFF&area=true&custom_title=My+Contribution+Activity" width="90%"/>
 </div>
