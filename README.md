@@ -54,7 +54,9 @@ Motivated by the desire to produce "well crafted" and efficient products, I enjo
   &nbsp;&nbsp;
   <a href="https://instagram.com/walid_u2"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a> 
 </div>
-
+  <a href="mailto:ow_bouhenika@esi.dz">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 ---
 
 <div align="center"> 
