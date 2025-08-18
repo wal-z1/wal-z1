@@ -25,7 +25,7 @@ Motivated by the desire to produce "well crafted" and efficient products, I enjo
 ## 🛠 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,js,ae,ps,pr,git,tailwind,github,vscode,react&theme=dark&perline=6&animate=true" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,js,ae,ps,pr,git,tailwind,github,vscode,framer-motion,react&theme=dark&perline=6&animate=true" />
   </a>
 </p>
 
