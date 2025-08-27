@@ -5,7 +5,7 @@
 ---
 
 ### About Me:
-Currently I am a CS student at (ESI).
+Currently I'm a CS student at (ESI).
 
 I enjoy focusing on the practical application of technology to build clean, functional, and well-designed solutions.
 
