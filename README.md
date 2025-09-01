@@ -9,7 +9,7 @@ Currently I'm a CS student at (ESI).
 
 I enjoy focusing on the practical application of technology to build clean, functional, and well-designed solutions.
 
-Motivated by the desire to produce "well crafted" and efficient products, I enjoy combining my love of design and media with technical problem solving. 
+Motivated by the desire to produce "well crafted" and efficient products, I enjoy combining my love of design and media with technical problem solving.
 
 ---
 
@@ -25,7 +25,7 @@ Motivated by the desire to produce "well crafted" and efficient products, I enjo
 ## 🛠 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,js,ae,ps,pr,git,tailwind,github,vscode,react&theme=dark&perline=6&animate=true" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,js,ae,ps,pr,git,tailwind,github,vscode,react&theme=dark&perline=6" />
   </a>
 </p>
 
@@ -34,16 +34,16 @@ Motivated by the desire to produce "well crafted" and efficient products, I enjo
 ## 📊 Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wal-z1&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&ring=22F7A3&animate=true&custom_title=My+GitHub+Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=wal-z1&theme=dark&hide_border=true&background=00000000&ring=22F7A3&fire=22F7A3&currStreakLabel=22F7A3" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wal-z1&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&ring=22F7A3&custom_title=My+GitHub+Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=wal-z1&theme=tokyonight&hide_border=true&background=00000000&ring=22F7A3&fire=22F7A3&currStreakLabel=22F7A3" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wal-z1&theme=dark&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&hide=procfile&card_width=400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wal-z1&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&hide=procfile&card_width=400" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wal-z1&theme=react-dark&bg_color=00000000&hide_border=true&line=22F7A3&point=FFFFFF&area=true&custom_title=My+Contribution+Activity" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wal-z1&theme=tokyonight&bg_color=00000000&hide_border=true&line=22F7A3&point=FFFFFF&area=true&custom_title=My+Contribution+Activity" width="90%"/>
 </div>
 
 ---
@@ -52,22 +52,22 @@ Motivated by the desire to produce "well crafted" and efficient products, I enjo
 <div align="center">
   <br>
   <a href="https://www.linkedin.com/in/bouhenika-walid-172649355">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/walid_u2">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a> 
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
   &nbsp;&nbsp;
   <a href="mailto:ow_bouhenika@esi.dz">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
 
 ---
 
-<div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=wal-z1&label=Profile+Views&color=22F7A3&style=for-the-badge&animation=spin" alt="Visitor Count" /> 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=wal-z1&label=Profile+Views&color=22F7A3&style=flat-square" alt="Visitor Count" />
 </div>
 
 <div align="center">
