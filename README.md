@@ -5,11 +5,10 @@
 ---
 
 ### About Me:
-Currently I'm a CS student at (ESI).
-
-I enjoy focusing on the practical application of technology to build clean, functional, and well-designed solutions.
-
-Motivated by the desire to produce "well crafted" and efficient products, I enjoy combining my love of design and media with technical problem solving.
+Currently a CS student at (ESI).
+Curious and hands-on.
+Focus on practical tech.
+Clean and functional results.
 
 ---
 
