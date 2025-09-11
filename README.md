@@ -6,8 +6,11 @@
 
 ### About Me:
 Currently a CS student at (ESI).
+
 Curious and hands-on.
+
 Focus on practical tech.
+
 Clean and functional results.
 
 ---
