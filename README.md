@@ -27,7 +27,7 @@ Clean and functional results.
 ## 🛠 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,js,ae,ps,pr,git,py,tailwind,github,vscode,fastapi,react&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,js,ae,ps,pr,git,py,tailwind,vscode,fastapi,react&theme=dark&perline=6" />
   </a>
 </p>
 
