@@ -1,24 +1,15 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=22F7A3&center=true&vCenter=true&width=500&lines=Media+Creator+%7C+Designer;Programmer;%7C+Tech+Enthusiast" alt="Animated Typing Intro" />
-</div>
+
+
+### Who ?
+
+I do code random projects and ideas here and there, I do some ctfs for love the love of the game, You may call me a CS Student
+
+
 
 ---
 
-### About Me:
-
-I do code random projects and ideas here and there  , I do some ctfs for love the love of the game 
-
----
 
 
-## 🛠 Some Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,js,ae,ps,pr,git,py,tailwind,vscode,fastapi,react&theme=dark&perline=6" />
-  </a>
-</p>
-
----
 
 ## 📊 Stats
 
@@ -36,22 +27,13 @@ I do code random projects and ideas here and there  , I do some ctfs for love th
 </div>
 
 ---
+## 🛠 Some Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,html,css,js,ae,ps,pr,git,py,tailwind,vscode,fastapi,react&theme=dark&perline=6" />
+  </a>
+</p>
 
-## 🌐 Some Socials
-<div align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/bouhenika-walid-172649355">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/walid_u2">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:ow_bouhenika@esi.dz">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
 
 ---
 
