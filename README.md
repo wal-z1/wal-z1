@@ -3,7 +3,7 @@
 
 ## Who ?
 
-I do code random projects and ideas here and there, I do some ctfs for love the love of the game, You may call me a CS Student
+I code random projects and ideas here and there, I do some ctfs for the love of the game,and You may call me a CS Student
 
 ---
 
