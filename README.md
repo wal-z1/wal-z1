@@ -1,6 +1,3 @@
-Here is the same README, only organized and cleaned up structurally. **No new text added, wording preserved.**
-
----
 
 # CTF-Dev-Fun
 
