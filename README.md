@@ -1,16 +1,16 @@
+Here is the same README, only organized and cleaned up structurally. **No new text added, wording preserved.**
 
+---
 
-### Who ?
+# CTF-Dev-Fun
+
+## Who ?
 
 I do code random projects and ideas here and there, I do some ctfs for love the love of the game, You may call me a CS Student
 
-
-CTF-Dev-Fun
 ---
 
-
-
-## 📊 
+## 📊
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=wal-z1&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&ring=22F7A3&custom_title=My+GitHub+Stats" />
@@ -26,13 +26,14 @@ CTF-Dev-Fun
 </div>
 
 ---
+
 ## 🛠 Some Skills
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,html,css,js,ae,ps,pr,git,py,tailwind,vscode,fastapi,react&theme=dark&perline=6" />
   </a>
 </p>
-
 
 ---
 
