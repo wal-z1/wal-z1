@@ -5,26 +5,13 @@
 ---
 
 ### About Me:
-Currently a CS student at (ESI).
 
-Curious and hands-on.
-
-Focus on practical tech.
-
-Clean and functional results.
+I do code random projects and ideas here and there  , I do some ctfs for love the love of the game 
 
 ---
 
-## 📌 Quick Links
-<div align="center">
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-stats">Stats</a> •
-  <a href="#-socials">Socials</a>
-</div>
 
----
-
-## 🛠 Tech Stack
+## 🛠 Some Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,html,css,js,ae,ps,pr,git,py,tailwind,vscode,fastapi,react&theme=dark&perline=6" />
@@ -50,7 +37,7 @@ Clean and functional results.
 
 ---
 
-## 🌐 Socials
+## 🌐 Some Socials
 <div align="center">
   <br>
   <a href="https://www.linkedin.com/in/bouhenika-walid-172649355">
