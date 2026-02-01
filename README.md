@@ -5,13 +5,12 @@
 I do code random projects and ideas here and there, I do some ctfs for love the love of the game, You may call me a CS Student
 
 
-
+CTF-Dev-Fun
 ---
 
 
 
-
-## 📊 Stats
+## 📊 
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=wal-z1&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&ring=22F7A3&custom_title=My+GitHub+Stats" />
