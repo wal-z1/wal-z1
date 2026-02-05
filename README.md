@@ -5,8 +5,12 @@ CS Student coding random projects and doing CTFs for fun.
 I make random things in here , check the repos
 **Links:**  
 → [Personal Portfolio](https://walidb.vercel.app/)  
+
 → [LinkedIn](https://www.linkedin.com/in/bouhenika-walid/)  
+
 → [picoCTF](https://play.picoctf.org/users/walid_z1)
+
+→ [HackTheBox](https://app.hackthebox.com/public/users/2941075)
 
 ## Skills
 
