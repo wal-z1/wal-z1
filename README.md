@@ -12,7 +12,9 @@ I make random things in here , check the repos
 
 → [HackTheBox](https://app.hackthebox.com/public/users/2941075)
 
-→ [MyWriteUps](https://medium.com/@ow_bouhenika)
+→ [CTF Writeups — GitBook](https://wal-z1.gitbook.io/ctf-writeups)
+
+→ [CTF Writeups — Medium](https://medium.com/@ow_bouhenika)
 
 ## Skills
 
