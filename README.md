@@ -16,11 +16,6 @@ I make random things in here , check the repos
 
 → [CTF Writeups — Medium](https://medium.com/@ow_bouhenika)
 
-## Skills
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,ae,ps,pr,git,py,tailwind,vscode,fastapi,react&theme=dark" />
-</a>
 
 ## Stats
 
