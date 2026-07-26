@@ -1,6 +1,6 @@
-# CTF-Dev-Fun
+# Have-Fun-in-Life
 
-CS Student coding random projects and doing CTFs for fun.
+CS Student coding random projects and doing cybersec 
 
 I make random things in here , check the repos
 **Links:**  
