@@ -15,21 +15,25 @@ I make random things in here , check the repos
 → [CTF Writeups — GitBook](https://wal-z1.gitbook.io/ctf-writeups)
 
 → [CTF Writeups — Medium](https://medium.com/@ow_bouhenika)
-
-
-## Stats
-
-
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=wal-z1.wal-z1" alt="visitors" />
-  <img src="https://img.shields.io/github/followers/wal-z1?label=Follow&style=social" alt="followers" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=wal-z1&label=VISITS&color=22F7A3&style=flat-square" />
+<img src="https://img.shields.io/github/followers/wal-z1?label=FOLLOWERS&style=flat-square&logo=github&color=22F7A3" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wal-z1&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%" />
+<br><br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wal-z1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wal-z1&theme=tokyonight&hide_border=true&background=00000000" width="48%" />
-</p>
+<img
+  src="https://anya-github-stats.vercel.app/api/stats?username=wal-z1&theme=neon_green"
+  width="56%"
+/>
+<img
+  src="https://streak-stats.demolab.com?user=wal-z1&theme=dark&background=0D1117&hide_border=true&ring=22F7A3&fire=22F7A3&currStreakLabel=22F7A3"
+  width="41%"
+/>
+
+<br>
+
+<img
+  src="https://github.pumbas.net/api/contributions/wal-z1?colour=22F7A3&bgColour=0d1117&dotColour=FFFFFF"
+  width="82%"
+/>
