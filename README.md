@@ -23,10 +23,6 @@ I make random things in here , check the repos
 <br><br>
 
 <img
-  src="https://anya-github-stats.vercel.app/api/stats?username=wal-z1&theme=neon_green"
-  width="56%"
-/>
-<img
   src="https://streak-stats.demolab.com?user=wal-z1&theme=dark&background=0D1117&hide_border=true&ring=22F7A3&fire=22F7A3&currStreakLabel=22F7A3"
   width="41%"
 />
