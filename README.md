@@ -19,6 +19,15 @@ I make random things in here , check the repos
 
 ## Stats
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wal-z1&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=wal-z1&color=22F7A3&style=flat" />
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wal-z1.wal-z1" alt="visitor-badge" />
+  <img src="https://img.shields.io/github/followers/wal-z1?label=Follow&style=social" alt="followers" />
+</p>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wal-z1&theme=tokyonight" width="100%"/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wal-z1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wal-z1&theme=tokyonight&hide_border=true&background=00000000" width="48%" />
+</p>
