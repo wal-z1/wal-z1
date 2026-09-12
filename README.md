@@ -5,11 +5,18 @@ CS Student coding random projects and doing cybersec
 
 I make random things in here , check the repos
 **Links:**  
+
 → [Personal Portfolio](https://walidb.vercel.app/)  
-→ [LinkedIn](https://www.linkedin.com/in/bouhenika-walid/)  
-→ [Cylab](https://play.picoctf.org/users/walid_z1)
-→ [HackTheBox](https://app.hackthebox.com/public/users/2941075)
+
+→[LinkedIn](https://www.linkedin.com/in/bouhenika-walid/)
+
+→[Cylab](https://play.picoctf.org/users/walid_z1)
+
+
+→[HackTheBox](https://app.hackthebox.com/public/users/2941075)
+
 → [CTF Writeups — GitBook](https://wal-z1.gitbook.io/ctf-writeups)
+
 → [CTF Writeups — Medium](https://medium.com/@ow_bouhenika)
 
 ## 📊 GitHub Stats
